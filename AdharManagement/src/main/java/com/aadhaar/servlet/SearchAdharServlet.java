@@ -22,6 +22,9 @@ public class SearchAdharServlet extends HttpServlet {
         // TODO Auto-generated constructor stub
     }
  
+    /*
+     * Method to lunch page
+     */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		//call service and get the data
